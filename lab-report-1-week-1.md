@@ -16,10 +16,12 @@ If you did not type your password correctly, it will re-prompt you for your pass
 If you continue having problems logging into your account, you can either type the command “```exit```” into the terminal, or press **control + c** to stop the terminal from running.
 
 After you have successfully logged into your account*, try testing out commands such as the following:
-```pwd
+```
+pwd
 ls
 cd
-mkdir```
+mkdir
+```
 
 * You may stop your connection by either typing the command ```exit``` into the terminal, or pressing ```control + d```
 
