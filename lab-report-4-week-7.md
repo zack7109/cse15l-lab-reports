@@ -9,7 +9,7 @@ First, we have to open the file in vim <br>
 Then we type the command: ``:13,23s/start/base``<br>
 <img width="97" alt="image" src="https://user-images.githubusercontent.com/114643274/205428418-eeac0dc8-6397-4771-8292-add13c8d802d.png">
 
-What this command does is from lines 13-23, replace "start" with "base"<br>
+What this command does is from lines 13-23, replace "start" with "base"<br><br>
 We can see this change happen after hitting enter<br>
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/114643274/205428550-ab1aa100-ba67-4689-9cab-1530b8779fbc.png">
 
