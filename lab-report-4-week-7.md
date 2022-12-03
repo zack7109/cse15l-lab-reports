@@ -13,7 +13,7 @@ What this command does is from lines 13-23, replace "start" with "base"
 We can see this change happen after hitting enter
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/114643274/205428550-ab1aa100-ba67-4689-9cab-1530b8779fbc.png">
 
-From there, we can quit out with ``:wq`` and pressing ``enter`` <br>
+From there, we can save and quit out with ``:wq`` and pressing ``enter`` <br>
 <img width="48" alt="image" src="https://user-images.githubusercontent.com/114643274/205428580-dad2a615-1d4b-4bb1-8483-a321a798881f.png">
 
 
